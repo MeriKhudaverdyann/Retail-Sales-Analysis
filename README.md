@@ -20,27 +20,31 @@ The analysis covers several aspects of the retail sales data:
 - Minimum Purchases: Both men and women aged 55-65.
 - Conclusion: No significant difference in shopping behavior by gender and age.
 
-![Effects of Age and Gender](age_gender_effect.png) <!-- Include a screenshot from the PDF showing this visualization -->
+![age_gender_effect](https://github.com/user-attachments/assets/06db727c-5f98-4e64-8d43-e15626f4520a)
+ <!-- Include a screenshot from the PDF showing this visualization -->
 
 ### 2. Seasonality Analysis
 - **Peak months**: May and December.
 - **Lowest activity**: Summer months, especially June and July.
 - **Day-wise trends**: Highest sales on Saturdays, lowest on Thursdays.
 
-![Seasonality Analysis](seasonality_analysis.png) <!-- Include a screenshot from the PDF showing this visualization -->
+![seasonality_analysis](https://github.com/user-attachments/assets/9de6c9d0-e7f5-498a-9719-6be39cd0a914)
+ <!-- Include a screenshot from the PDF showing this visualization -->
 
 ### 3. Purchasing Behavior by Product Category
 - **Electronics** is the most popular category across all age groups.
 - **Beauty accessories** are most popular among the 46-55 age group.
 - **Clothing** category has the lowest sales.
 
-![Purchasing Behavior](purchasing_behavior.png) <!-- Include a screenshot from the PDF showing this visualization -->
+![purchasing_behavior](https://github.com/user-attachments/assets/aa34eeda-9e23-446d-a451-d9980c5496f9)
+ <!-- Include a screenshot from the PDF showing this visualization -->
 
 ### 4. Product Price Analysis
 - Majority of products are in the price range of $25-$50.
 - The Clothing category shows a dominance in this price range.
 
-![Price Analysis](price_analysis.png) <!-- Include a screenshot from the PDF showing this visualization -->
+![price_analysis](https://github.com/user-attachments/assets/24842aa5-3320-468d-b25e-d320b115d5b3)
+ <!-- Include a screenshot from the PDF showing this visualization -->
 
 ## Suggestions
 - **Marketing Strategies**: Promotions during peak periods, personalized discounts, targeted advertising.
